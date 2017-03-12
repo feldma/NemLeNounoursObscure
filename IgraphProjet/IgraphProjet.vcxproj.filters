@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpAnimation.cpp">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpMeshHelper.cpp">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpModelLoader.cpp">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpTexture.cpp">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxBaseGui.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxButton.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxGuiGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxLabel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxPanel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxSlider.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxSliderGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxToggle.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\ofxDatGui.cpp">
+      <Filter>addons\ofxDatGui-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\core\ofxDatGuiComponent.cpp">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\libs\ofxSmartFont\ofxSmartFont.cpp">
+      <Filter>addons\ofxDatGui-master\src\libs\ofxSmartFont</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{e847e65e-86ff-44c8-8b62-725e4552b0f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAssimpModelLoader">
+      <UniqueIdentifier>{7a37eca1-5ff3-44cd-878e-3b360c96e13e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAssimpModelLoader\src">
+      <UniqueIdentifier>{0bd97ccf-a934-462d-8f0b-4805e7df7d33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAssimpModelLoader\libs">
+      <UniqueIdentifier>{01da38b6-3afb-4e97-bea2-9c124b42727c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAssimpModelLoader\libs\assimp">
+      <UniqueIdentifier>{26110ae2-e136-46bd-9dd5-96dd19e6cc2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAssimpModelLoader\libs\assimp\include">
+      <UniqueIdentifier>{c199b454-9d90-4faa-9285-1424fdf54cd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAssimpModelLoader\libs\assimp\include\assimp">
+      <UniqueIdentifier>{a1a1cdfe-0672-4d02-a7c5-4c83a80a3254}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Compiler">
+      <UniqueIdentifier>{3f5b4d91-ccf1-4df5-b260-4e722bde654a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui">
+      <UniqueIdentifier>{5f4f058d-b730-4215-82b8-7ee413d6d65e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui\src">
+      <UniqueIdentifier>{9c45b99c-c16b-4483-80ce-8dc044631be6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master">
+      <UniqueIdentifier>{0c18d6cd-bab8-402c-b968-7b2d08effd18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src">
+      <UniqueIdentifier>{68bac2f5-24ce-4d0d-9450-2dc881df4e36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\components">
+      <UniqueIdentifier>{9884c76f-e15b-4aee-b55e-ebd4163dc4d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\core">
+      <UniqueIdentifier>{8f545619-345c-41af-830d-b0e125c79232}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\libs">
+      <UniqueIdentifier>{5358dfc9-8699-4479-93fd-2ea1c79ab12b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\libs\ofxSmartFont">
+      <UniqueIdentifier>{38af4606-bf11-4d0f-a20a-6ae3556331b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\themes">
+      <UniqueIdentifier>{09c79866-665d-4e32-b045-1216ddfc457d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpAnimation.h">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpMeshHelper.h">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpModelLoader.h">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpTexture.h">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\src\ofxAssimpUtils.h">
+      <Filter>addons\ofxAssimpModelLoader\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\ai_assert.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\anim.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\camera.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\cexport.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\cfileio.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\cimport.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\color4.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\config.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\defs.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\importerdesc.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\light.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\material.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\matrix3x3.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\matrix4x4.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\mesh.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\metadata.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\postprocess.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\quaternion.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\scene.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\texture.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\types.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\vector2.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\vector3.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\version.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\DefaultLogger.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Exporter.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Importer.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\IOStream.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\IOSystem.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Logger.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\LogStream.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\NullLogger.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\ProgressHandler.hpp">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Compiler\poppack1.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Compiler\pstdint.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Compiler\pushpack1.h">
+      <Filter>addons\ofxAssimpModelLoader\libs\assimp\include\assimp\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxBaseGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxButton.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxGuiGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxLabel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxPanel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxSlider.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxSliderGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxGui\src\ofxToggle.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\ofxDatGui.h">
+      <Filter>addons\ofxDatGui-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGui2dPad.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiButton.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiColorPicker.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiControls.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiFRM.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiGroups.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiLabel.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiMatrix.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiScrollView.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiSlider.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiTextInput.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiTextInputField.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\components\ofxDatGuiTimeGraph.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\core\ofxDatGuiComponent.h">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\core\ofxDatGuiConstants.h">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\core\ofxDatGuiEvents.h">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\core\ofxDatGuiIntObject.h">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\libs\ofxSmartFont\ofxSmartFont.h">
+      <Filter>addons\ofxDatGui-master\src\libs\ofxSmartFont</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\themes\ofxDatGuiTheme.h">
+      <Filter>addons\ofxDatGui-master\src\themes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexis Feldmar\Downloads\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxDatGui-master\src\themes\ofxDatGuiThemes.h">
+      <Filter>addons\ofxDatGui-master\src\themes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
